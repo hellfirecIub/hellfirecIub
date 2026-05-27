@@ -13,3 +13,17 @@
   <img src="https://github.com/mojodojo-casahouse/mojodojo-casahouse/blob/280ec29ac7d4d97ddb86fc11623ffb7e33af66fb/hearts.webp">
 </div>
 <br></br>
+
+<div align=center>
+<a href="https://github.com/shotgunnur">
+  <img src="image-source.jpg">
+</a>
+  　
+<a href="https://github.com/shotgunnur">
+  <img src="image-source.jpg">
+</a>
+　
+<a href="https://github.com/shotgunnur">
+  <img src="image-source.jpg">
+</a>
+</a>
