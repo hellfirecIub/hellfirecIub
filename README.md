@@ -5,8 +5,10 @@
 </div>
 <br></br>
 <div align = center>
-<img src="https://github.com/hellfirecIub/hellfirecIub/blob/8914451f6cedc70b65b5a7e6d9e68e8573defa2a/coffin.jpg" height=375 width=375>
+  <img src="https://github.com/hellfirecIub/hellfirecIub/blob/8914451f6cedc70b65b5a7e6d9e68e8573defa2a/coffin.jpg" height=375 width=375>
 </div>
+<br></br>
+  <p align ="center"> $\color{#a1a1a1}{\textsf{18yo . ryland grace fictkin}}$ </p>
 <br></br>
 <div align = center>
 
