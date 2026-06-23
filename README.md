@@ -3,7 +3,7 @@
   ![](https://komarev.com/ghpvc/?username=hellfirecIub&style=plastic&color=780000&label=+++lost+sheep+++)
 </div>
   <p align ="center"> $\color{#a1a1a1}{\textsf{18yo . eddie munson fictkin}}$ </p>
-<p align=center> <img src="https://github.com/hellfirecIub/hellfirecIub/blob/ef9626cbb7cb16e114d133abb8df305a034622b6/ml__1_-removebg-preview.png" height=375 width=375> </p>
+<p align=center> <img src="https://github.com/hellfirecIub/hellfirecIub/blob/3f16796b5eacf4150b7454ff68108a7406853439/sted%20(1).png" height=375 width=375> </p>
 
 </div>
 <p align="center">
